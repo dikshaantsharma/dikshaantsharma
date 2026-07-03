@@ -2,6 +2,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Engineer;Agentic+AI+Engineer;Machine+Learning+Engineer" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Dikshaant%20Sharma&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20|%20Agentic%20AI%20|%20Machine%20Learning&descAlignY=60" />
+</p>
+
 # 💫 About Me:
 <br><br>🎓 Pursuing a **B.Tech in Computer Science & Engineering**.<br>☕ Passionate Backend Developer specializing in **Java**, **Spring Boot**, and scalable application development.<br>🤖 Exploring **Generative AI** with **Spring AI**, including RAG pipelines, embeddings, prompt engineering, and vector databases.<br>🔒 Strong understanding of **Spring Security**, authentication, authorization, JWT, and secure application design.<br>🏗️ Hands-on experience with **Microservices**, **Apache Kafka**, and **Docker**.<br>🧠 Continuously learning **Machine Learning** concepts to complement AI-driven application development.<br>💻 Regularly solving **Data Structures & Algorithms** problems to strengthen problem-solving and interview readiness.<br>🚀 Passionate about building scalable, secure, and AI-powered applications while continuously learning and exploring new technologies.<br>
 
@@ -16,6 +20,4 @@
 ---
 [![](https://komarev.com/ghpvc/?username=dikshaantsharma&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-</p>
+
