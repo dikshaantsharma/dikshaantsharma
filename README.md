@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Engineer;Agentic+AI+Engineer;Machine+Learning+Engineer" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Dikshaant%20Sharma&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=50" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Dikshaant%20Sharma&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20|%20Agentic%20AI%20|%20Machine%20Learning&descAlignY=60" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Engineer;Agentic+AI+Engineer;Machine+Learning+Engineer" alt="Typing SVG" />
 </p>
 
 # 💫 About Me:
